@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Unreader",
+  "version": "0.1",
+  "description": "Mark all threads 'above' a certain thread as unread in Slack.",
+}
