@@ -3,4 +3,5 @@
 Reclaim your slack unreads in a very hacky broken way!
 
 Colors:
-#9E9EA1
+- Gray: #9E9EA1
+- Red: #E01E5A
